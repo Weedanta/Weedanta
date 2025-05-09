@@ -1,7 +1,7 @@
 ![Bagus Wedanta](images/github-header-image.png)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1500&color=001697&background=00000000&vCenter=true&random=false&width=750&height=50&lines=👺+Hi,+Nice+to+See+You;🚀+Web+and+Mobile+Developer+Enthusiast;Would+you+like+to+sign+me?+😭😭)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1500&color=001697&background=00000000&vCenter=true&random=false&width=750&height=50&lines=👺+Hi,+Nice+to+See+You;🚀+Web+and+Mobile+Developer+Enthusiast;Would+you+like+to+sign+me?+😭😭)](https://git.io/typing-svg)
 
 Hi, I'm Bagus Wedanta. I'm Front-End & Mobile Developer with experience building interactive and responsive using React, Typescript, and Flutter. Contribute to informative app projects, content-driven platforms, and intuitive navigation systems. Focused on optimal performance, accessibility, and user experience through clean and structured code. Always strive to deliver efficient, modern, and user-friendly software solutions.
 
