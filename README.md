@@ -16,7 +16,7 @@
 
 ### 👋 About Me
 
-Hi, I'm **Bagus Wedanta** — a Front-End & Mobile Developer building interactive, responsive experiences with **React**, **TypeScript**, and **Flutter**.
+Hi, I'm **Bagus Wedanta** a Full Stack & Mobile Developer building interactive, responsive experiences with **TypeScript**, **Go**, and **Flutter**.
 
 - 🔭 Contributing to informative apps, content-driven platforms, and intuitive navigation systems
 - 🎯 Focused on performance, accessibility, and clean, structured code
