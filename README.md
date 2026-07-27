@@ -72,7 +72,7 @@ Hi, I'm **Bagus Wedanta** — a Front-End & Mobile Developer building interactiv
 
 <p align="center">
   <a href="https://pagespeed.web.dev/analysis?url=https://baguswedanta.com" target="_blank">
-    <img src="https://page-speed.dev/badge/baguswedanta.com" alt="PageSpeed Insights baguswedanta.com" />
+    <img src="images/pagespeed-insights.svg" alt="PageSpeed Insights baguswedanta.com" width="85%" />
   </a>
 </p>
 

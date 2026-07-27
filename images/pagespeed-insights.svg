@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 160" width="540" height="160" fill="none">
+  <style>
+    .header-title { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 15px; font-weight: 600; fill: #388bfd; }
+    .header-url { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 13px; fill: #8b949e; }
+    .score-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 17px; font-weight: 700; fill: #3fb950; text-anchor: middle; dominant-baseline: central; }
+    .label-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 12px; font-weight: 500; fill: #8b949e; text-anchor: middle; }
+    .gauge-bg { stroke: #21262d; stroke-width: 4.5; fill: none; }
+    .gauge-fill { stroke: #3fb950; stroke-width: 4.5; fill: none; stroke-linecap: round; transform: rotate(-90deg); transform-origin: center; }
+  </style>
+
+  <!-- Header -->
+  <g transform="translate(20, 15)">
+    <!-- Rocket Icon -->
+    <path fill="#388bfd" d="M14.06 2.06c.39-.39 1.02-.39 1.41 0l.47.47c1.78 1.78 2.37 4.37 1.57 6.64l3.19 3.19c.39.39.39 1.02 0 1.41l-.94.94c-.39.39-1.02.39-1.41 0l-3.19-3.19c-2.27.8-4.86.21-6.64-1.57l-.47-.47c-.39-.39-.39-1.02 0-1.41l5.01-5.01zM4 14.5a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1-.5-.5v-2zm-2 4a.5.5 0 0 1 .5-.5h2a.5.5 0 0 1 .5.5v2a.5.5 0 0 1-.5.5h-2a.5.5 0 0 1-.5-.5v-2z"/>
+    <text x="26" y="14" class="header-title">PageSpeed Insights</text>
+  </g>
+  <g transform="translate(20, 36)">
+    <!-- Link Icon -->
+    <path fill="#8b949e" d="M7.775 3.275a.75.75 0 0 0 1.06 1.06l1.25-1.25a2 2 0 1 1 2.83 2.83l-2.5 2.5a2 2 0 0 1-2.83 0 .75.75 0 0 0-1.06 1.06 3.5 3.5 0 0 0 4.95 0l2.5-2.5a3.5 3.5 0 0 0-4.95-4.95l-1.25 1.25zm-4.69 9.64a3.5 3.5 0 0 0 4.95 0l1.25-1.25a.75.75 0 0 0-1.06-1.06l-1.25 1.25a2 2 0 0 1-2.83-2.83l2.5-2.5a2 2 0 0 1 2.83 0 .75.75 0 0 0 1.06-1.06 3.5 3.5 0 0 0-4.95 0l-2.5 2.5a3.5 3.5 0 0 0 0 4.95z"/>
+    <text x="24" y="12" class="header-url">https://baguswedanta.com</text>
+  </g>
+
+  <!-- Gauges -->
+  <!-- 1. Performance (99) -->
+  <g transform="translate(70, 95)">
+    <circle cx="0" cy="0" r="28" class="gauge-bg" />
+    <circle cx="0" cy="0" r="28" class="gauge-fill" stroke-dasharray="175.93" stroke-dashoffset="1.76" />
+    <text x="0" y="0" class="score-text">99</text>
+    <text x="0" y="44" class="label-text">Performance</text>
+  </g>
+
+  <!-- 2. Accessibility (96) -->
+  <g transform="translate(200, 95)">
+    <circle cx="0" cy="0" r="28" class="gauge-bg" />
+    <circle cx="0" cy="0" r="28" class="gauge-fill" stroke-dasharray="175.93" stroke-dashoffset="7.04" />
+    <text x="0" y="0" class="score-text">96</text>
+    <text x="0" y="44" class="label-text">Accessibility</text>
+  </g>
+
+  <!-- 3. Best Practices (100) -->
+  <g transform="translate(330, 95)">
+    <circle cx="0" cy="0" r="28" class="gauge-bg" />
+    <circle cx="0" cy="0" r="28" class="gauge-fill" stroke-dasharray="175.93" stroke-dashoffset="0" />
+    <text x="0" y="0" class="score-text">100</text>
+    <text x="0" y="44" class="label-text">Best Practices</text>
+  </g>
+
+  <!-- 4. SEO (95) -->
+  <g transform="translate(460, 95)">
+    <circle cx="0" cy="0" r="28" class="gauge-bg" />
+    <circle cx="0" cy="0" r="28" class="gauge-fill" stroke-dasharray="175.93" stroke-dashoffset="8.80" />
+    <text x="0" y="0" class="score-text">95</text>
+    <text x="0" y="44" class="label-text">SEO</text>
+  </g>
+</svg>
