@@ -68,6 +68,14 @@ Hi, I'm **Bagus Wedanta** — a Front-End & Mobile Developer building interactiv
 
 <img src="https://trophy.benkou.dev/?username=Weedanta&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=-Issues,-Reviews" alt="GitHub trophies" />
 
+### ⚡ PageSpeed Insights
+
+<p align="center">
+  <a href="https://pagespeed.web.dev/analysis?url=https://baguswedanta.com" target="_blank">
+    <img src="https://page-speed.dev/badge/baguswedanta.com" alt="PageSpeed Insights baguswedanta.com" />
+  </a>
+</p>
+
 ### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Weedanta/Weedanta/output/snake.svg" alt="Snake animation" />
