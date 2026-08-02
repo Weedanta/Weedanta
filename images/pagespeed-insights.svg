@@ -21,19 +21,19 @@
   </g>
 
   <!-- Gauges -->
-  <!-- 1. Performance (99) -->
+  <!-- 1. Performance (100) -->
   <g transform="translate(70, 95)">
     <circle cx="0" cy="0" r="28" class="gauge-bg" />
-    <circle cx="0" cy="0" r="28" class="gauge-fill" stroke-dasharray="175.93" stroke-dashoffset="1.76" />
-    <text x="0" y="0" class="score-text">99</text>
+    <circle cx="0" cy="0" r="28" class="gauge-fill" stroke-dasharray="175.93" stroke-dashoffset="0" />
+    <text x="0" y="0" class="score-text">100</text>
     <text x="0" y="44" class="label-text">Performance</text>
   </g>
 
-  <!-- 2. Accessibility (96) -->
+  <!-- 2. Accessibility (100) -->
   <g transform="translate(200, 95)">
     <circle cx="0" cy="0" r="28" class="gauge-bg" />
-    <circle cx="0" cy="0" r="28" class="gauge-fill" stroke-dasharray="175.93" stroke-dashoffset="7.04" />
-    <text x="0" y="0" class="score-text">96</text>
+    <circle cx="0" cy="0" r="28" class="gauge-fill" stroke-dasharray="175.93" stroke-dashoffset="0" />
+    <text x="0" y="0" class="score-text">100</text>
     <text x="0" y="44" class="label-text">Accessibility</text>
   </g>
 
@@ -45,11 +45,11 @@
     <text x="0" y="44" class="label-text">Best Practices</text>
   </g>
 
-  <!-- 4. SEO (95) -->
+  <!-- 4. SEO (100) -->
   <g transform="translate(460, 95)">
     <circle cx="0" cy="0" r="28" class="gauge-bg" />
-    <circle cx="0" cy="0" r="28" class="gauge-fill" stroke-dasharray="175.93" stroke-dashoffset="8.80" />
-    <text x="0" y="0" class="score-text">95</text>
+    <circle cx="0" cy="0" r="28" class="gauge-fill" stroke-dasharray="175.93" stroke-dashoffset="0" />
+    <text x="0" y="0" class="score-text">100</text>
     <text x="0" y="44" class="label-text">SEO</text>
   </g>
 </svg>
