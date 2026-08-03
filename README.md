@@ -29,7 +29,7 @@ Hi, I'm **Bagus Wedanta** a Full Stack & Mobile Developer building interactive, 
 
 ### 📊 GitHub Stats
 
-<img src="https://github-stats-extended.vercel.app/api?username=Weedanta&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=4E71FF&icon_color=4E71FF&text_color=ffffff&ring_color=4E71FF" width="49%" alt="Bagus's GitHub stats" />
+<img src="https://github-stats-extended.vercel.app/api?username=Weedanta&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=4E71FF&icon_color=4E71FF&text_color=ffffff&ring_color=4E71FF" width="49%" alt="Bagus's GitHub stats" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Weedanta&layout=compact&hide_border=true&bg_color=00000000&title_color=4E71FF&text_color=ffffff&langs_count=8" width="30%" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Weedanta&hide_border=true&background=00000000&ring=4E71FF&fire=4E71FF&currStreakLabel=4E71FF&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&currStreakNum=ffffff" width="70%" alt="GitHub streak stats" />
