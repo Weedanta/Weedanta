@@ -66,7 +66,7 @@ Hi, I'm **Bagus Wedanta** a Full Stack & Mobile Developer building interactive, 
 
 ### 🏆 Trophies
 
-<img src="https://trophy.benkou.dev/?username=Weedanta&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=-Issues,-Reviews" alt="GitHub trophies" />
+<img src="https://trophy.benkou.dev/?username=Weedanta&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8&title=-Issues,-Reviews&v=1" alt="GitHub trophies" />
 
 ### ⚡ PageSpeed Insights
 
